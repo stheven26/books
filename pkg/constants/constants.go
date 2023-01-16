@@ -1,0 +1,11 @@
+package constants
+
+const (
+	STATUS_SUCCESS = "00"
+	STATUS_FAILED  = "05"
+)
+
+const (
+	MESSAGE_SUCCESS = "SUCCESS"
+	MESSAGE_FAILED  = "SOMETHING WENT WRONG"
+)
